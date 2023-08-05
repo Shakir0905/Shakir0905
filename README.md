@@ -1,6 +1,6 @@
-# Hi I'm Shakir 👋 
-## Data Scientist 
-### Technology stack : Python/R, SQL, P.Libraries
+#  Gretting
+## DS, ML, AI, DL, CV, NLP 
+### Technology stack : Python/R, SQL, P.Libraries, C++
 ### Contact with me :
  - :speech_balloon: ramazanovshakir9@gmail.com
  - :ticket: @Shakir_age
