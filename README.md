@@ -1,18 +1,15 @@
-**Shakir Ramazanov - Data Science & AI Professional**
+**Shakir Ramazanov - AI-enginner**
 
 ---
 
 **Expertise Areas:**
-- Data Science (DS)
-- Machine Learning (ML)
-- Artificial Intelligence (AI)
-- Deep Learning (DL)
-- Computer Vision (CV)
-- Natural Language Processing (NLP)
+- Artificial Intelligence 
+- Computer Vision 
+- Natural Language Processing 
 
 **Technology Stack:**
-- **Languages**: Python, R, C++, SQL
-- **Popular Libraries**: TensorFlow, PyTorch, Pandas, Scikit-Learn, etc.
+- **Languages**: Python, C++
+- **Popular Libraries**:  PyTorch, Pandas, Scikit-Learn, etc.
 
 ---
 
