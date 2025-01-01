@@ -1,4 +1,4 @@
-**Shakir Ramazanov - AI-enginner**
+**Shakir Ramazanov - AI-enginеer**
 
 ---
 
