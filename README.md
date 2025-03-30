@@ -4,8 +4,6 @@
 
 ### Skills set
 
-<img align="left" alt="CodeWars" width="320px" src="https://www.codewars.com/users/ViktorPavlovA/badges/large" />
-
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
