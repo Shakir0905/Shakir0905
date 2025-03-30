@@ -3,8 +3,7 @@
 ### I am a Lead Computer Vision Engineer and Data Scientist, specializing in ML/CV model development. 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kolesnokov__dima" height="30" width="40" /> </a> <a href="https://t.me/kolesnikov_dima" target="_blank" ><img align="center" src="https://logolook.net/wp-content/uploads/2023/02/Logo-Telegram.png" alt="telegram" width="55" height="33"/>
+<p align="left"> </a> <a href="https://t.me/Shakir_age" target="_blank" ><img align="center" src="https://logolook.net/wp-content/uploads/2023/02/Logo-Telegram.png" alt="telegram" width="55" height="33"/>
   
 </p>
 
