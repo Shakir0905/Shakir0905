@@ -9,6 +9,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="pytorch logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=opencv" height="40" alt="opencv logo"  />
+  <img width="12" />
   <img src="https://icon-icons.com/icons2/2148/PNG/512/c_icon_132529.png" height="40" alt="cpp logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cmake" height="40" alt="cmake logo"  />
