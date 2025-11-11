@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Shakir
 
-### I am a Lead Computer Vision Engineer and Data Scientist, specializing in ML/CV model development. 
+### I am a Head of AI, specializing in LLM/CV model development. 
 
 ### Skills set
 
