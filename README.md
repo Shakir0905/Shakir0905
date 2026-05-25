@@ -1,47 +1,84 @@
-### Hi there 👋 I'm Shakir
+# Hi there 👋 I'm Shakir
 
-### I am a Head of AI, specializing in LLM/CV model development. 
+**Senior Computer Vision Engineer** with 6+ years building production ML systems — from edge devices (NVIDIA Jetson) to distributed cloud services.
 
-### Skills set
+- 🧠 Specialties: real-time CV, model optimization (TensorRT, ONNX), edge AI
+- 🔭 Currently exploring distributed systems in Go (microservices, gRPC, Kafka)
+- 📍 Saint Petersburg, Russia · Open to remote
 
+---
+
+## Skills
+
+### Languages & ML
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=opencv" height="40" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://icon-icons.com/icons2/2148/PNG/512/c_icon_132529.png" height="40" alt="cpp logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cmake" height="40" alt="cmake logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgres logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=grafana" height="40" alt="grafana logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=raspberrypi" height="40" alt="raspberrypi logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=stackoverflow" height="40" alt="stackoverflow logo"  />
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cpp" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=go" height="40" alt="go" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="pytorch" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=opencv" height="40" alt="opencv" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=cmake" height="40" alt="cmake" />
 </div>
 
+### Backend & Infra
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgres" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=kafka" height="40" alt="kafka" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx" />
+</div>
 
-### Connect with me
+### Observability & Edge
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=grafana" height="40" alt="grafana" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=prometheus" height="40" alt="prometheus" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=raspberrypi" height="40" alt="raspberrypi" />
+</div>
 
+---
+
+## Pinned projects
+
+- **[url-monitor](https://github.com/Shakir0905/url-monitor)** — Distributed URL monitoring: 5 Go microservices, gRPC, Kafka pub/sub, React frontend, PostgreSQL, Prometheus/Grafana
+- **[straight-edge](https://github.com/Shakir0905/straight-edge)** — Find the longest straight edge on a product silhouette: NumPy + OpenCV, vectorized contour analysis
+
+---
+
+## Connect
+
+<a href="mailto:ramazanovshakir9@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+</a>
 <a href="https://t.me/Shakir_age">
-    <img src="https://logolook.net/wp-content/uploads/2023/02/Logo-Telegram.png" height="80" alt="telegram logo" />
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" />
 </a>
