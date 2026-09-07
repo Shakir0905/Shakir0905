@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Shakir
 
-**Senior Computer Vision Engineer** with 6+ years building production ML systems — from edge devices (NVIDIA Jetson) to distributed cloud services.
+**Senior Computer Vision Engineer** with 6+ years building production ML systems — from edge devices NVIDIA Jetson, Intel, Rockchip to distributed cloud services.
 
 - 🧠 Specialties: real-time CV, model optimization (TensorRT, ONNX), edge AI
 - 🔭 Currently exploring distributed systems in Go (microservices, gRPC, Kafka)
